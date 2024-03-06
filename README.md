@@ -1,2 +1,2 @@
 # documentations
-This repository provides best documentation regarding various products. 
+This repository provides best documentation regarding various ServiceNow Integrations 
